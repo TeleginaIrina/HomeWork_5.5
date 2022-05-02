@@ -2,9 +2,7 @@
 // Показать количество нечетных\четных чисел
 //Длина массива задается с терминала.
 Console.Clear();
-System.Console.WriteLine();
 
-// int size = 20;
 System.Console.Write("Введите длину массива ");
 int size = Int32.Parse(Console.ReadLine());
 
